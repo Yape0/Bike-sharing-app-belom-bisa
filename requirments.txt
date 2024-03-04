@@ -1,6 +1,6 @@
 streamlit
 panda
-matplotlib==3.4.1
+matplotlib
 numpy
 seaborn
 matplotlib.pyplot
