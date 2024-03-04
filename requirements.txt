@@ -3,3 +3,4 @@ panda
 matplotlib.plot
 numpy
 seaborn
+matplotlib.pyplot
