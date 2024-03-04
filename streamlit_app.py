@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
+import matplotlib as plt
 
 # Menambahkan informasi tugas akhir
 st.title('Tugas Akhir Belajar Analisis Data dengan Python')
