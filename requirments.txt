@@ -3,4 +3,4 @@ panda
 matplotlib
 numpy
 seaborn
-matplotlib.pyplot
+
